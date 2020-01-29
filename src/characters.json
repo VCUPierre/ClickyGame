@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Bigsby",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-Chapelles-Show-Dave-Chapelle1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Black Bush",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMzMTUwNzYwM15BMl5BanBnXkFtZTgwMzA4Nzc3MjE@._V1_UY268_CR87,0,182,268_AL_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Lil Jon",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU2OTE0MTQwMl5BMl5BanBnXkFtZTgwNTA4Nzc3MjE@._V1_UY268_CR87,0,182,268_AL_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Playa",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzE3OTI0MTc0M15BMl5BanBnXkFtZTgwNTE4Nzc3MjE@._V1_UY268_CR87,0,182,268_AL_.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Prince",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcyNzYxMjM4MF5BMl5BanBnXkFtZTgwNzc0MzE1NTE@._V1_UY268_CR87,0,182,268_AL_.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Rick James",
+        "image": "https://i.pinimg.com/originals/69/92/b7/6992b72f003bc2a481b224ffd823f831.jpg"
+    },
+    {
+        "id": 7,
+        "name": "R Kelly",
+        "image": "https://i.pinimg.com/236x/20/ff/34/20ff34a757b6fa19b10b80ef9dffe01b--funny-people-funny-things.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Chappelle",
+        "image": "https://www.hot97.com/sites/g/files/exi706/f/styles/large_730/public/article-images-featured/1378451-490906.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Tron",
+        "image": "https://i.pinimg.com/236x/5e/dc/27/5edc27629ac56d1558d5b3cf01c98be3.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Tyron",
+        "image": "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters_opt/p-Chapelles-Show-Dave-Chapelle2.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Wack Arnold",
+        "image": "http://comedycentral.mtvnimages.com/images/shows/chappelle/videos/season2/202_wacarnolds_v6.jpg"
+    },
+    {
+        "id": 12,
+        "name": "News Anchor",
+        "image": "https://pbs.twimg.com/media/CqyjcezUsAAHna4?format=jpg&name=240x240"
+    }
+]
